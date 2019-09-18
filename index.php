@@ -32,7 +32,7 @@
 	    </div>
 	    <div class="col">
 	    	<div class="float-right" style="padding-top: 0px;">
-	    		<a class="btn btn-primary btn-filled btn-xs" href="http://www.nows.fun" >再来一碗！</a>
+	    		<a class="btn btn-primary btn-filled btn-xs" href="https://github.com/egotong/nows" >开源</a>
 	    	</div>
 	    </div>
 		</div>

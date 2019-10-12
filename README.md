@@ -5,8 +5,4 @@
 
 代码真的很丑！
 
-放个链接看看有人打款吗？
-
-https://www.paypal.me/heping2019
-
 没事打开http://www.nows.fun/ 毕竟人生苦短都没苦笑过有什么意思！

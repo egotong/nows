@@ -1,5 +1,5 @@
 <?php
-	$conn=mysql_connect("localhost","symhytwg_fun","520101"); //Á¬½ÓÊý¾Ý¿âµØÖ·¡¢ÓÃ»§Ãû¡¢ÃÜÂë
-	mysql_query("set names 'utf8'"); //Êý¾Ý¿â±àÂë
-	mysql_select_db("symhytwg_nows"); //Êý¾Ý¿âÃû³Æ
+	$conn=mysql_connect("localhost","symhytwg_fun","wahaha2019"); //è¿žæŽ¥æ•°æ®åº“åœ°å€ã€ç”¨æˆ·åã€å¯†ç 
+	mysql_query("set names 'utf8'"); //æ•°æ®åº“ç¼–ç 
+	mysql_select_db("sy_nows"); //æ•°æ®åº“åç§°
 ?>

@@ -44,11 +44,11 @@
 	
 						
 	<?php
-	$sql="select * from soul order by rand( ) limit 1";
-	$rs=mysql_query($sql);
+	$sql = "select * from soul order by rand( ) limit 1";
+	$rs = mysqli_query($conn,$sql);
 	?>		
 			<?php
-		while($rows=mysql_fetch_assoc($rs))
+		while($rows = mysqli_fetch_assoc($rs))
 		{
 		?>		
 						
